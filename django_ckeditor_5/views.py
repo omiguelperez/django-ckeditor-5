@@ -1,4 +1,3 @@
-import boto3
 import urllib.parse
 import uuid
 import os
